@@ -1,4 +1,4 @@
 # Search-for-ZCPs
 Finding for ZCPs  
-Project for midterm  
+This is a project in sequence design class  
 
